@@ -14,3 +14,4 @@
 | Autobiography of a Yogi    		| https://goo.gl/MpSCL5			| When AUTOBIOGRAPHY OF A YOGI first appeared in 1946 it was acclaimed as a landmark work in its field. |
 | The 48 Laws Of Power    		| https://goo.gl/i9U3aG			| Drawn from 3,000 years of the history of power, this is the definitive guide to help readers achieve for themselves what Queen Elizabeth I, Henry Kissinger, Louis XIV and Machiavelli learnt the hard way. |
 | Man's Search For Meaning    		| https://goo.gl/rtybvt			| D9 MILLION COPIES SOLD 'A book to read, to cherish, to debate, and one that will ultimately keep the memories of the victims alive' John Boyne, author of The Boy in the Striped Pyjamas|
+| The 7 Habits of Highly Effective People    		| https://goo.gl/gw83kJ			| In THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE Stephen R. Covey presents a holistic, integrated, principle-centred approach for solving personal and professional problems.|
