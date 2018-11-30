@@ -1,10 +1,10 @@
 # 📖 List of most important books you have ever read
 ### Summary of the twitter thread by [🌪@APompliano](https://twitter.com/APompliano/status/1068203712634634243) 
 
-|Title       			|URL          								|Description  		|
-|:------------- 		|:-------------								|:-------------|
-| **How to win friends and influence people is up there**       		| https://goo.gl/8YUhwf							| The most famous confidence-boosting book ever published; with sales of over 16 million copies worldwide			|
-| **Reminiscences of a Stock Operator**      		| https://goo.gl/fDJjQB						| Offer insights into the art of trading and speculation			|
+|Title       			|URL          								|Description  		|Image  		|
+|:------------- 		|:-------------								|:-------------    |:-------------|
+| **How to win friends and influence people is up there**       		| https://goo.gl/8YUhwf							| The most famous confidence-boosting book ever published; with sales of over 16 million copies worldwide			|<img src="https://images-eu.ssl-images-amazon.com/images/I/51AFJV0THzL.jpg" width="60" height="80"> |
+| **Reminiscences of a Stock Operator**      		| https://goo.gl/fDJjQB						| Offer insights into the art of trading and speculation			|<img src="https://images-na.ssl-images-amazon.com/images/I/41F%2BAOhBjrL._AC_SX60_CR,0,0,60,60_.jpg" width="60" height="60"> |
 | **Think and grow rich**       		| https://goo.gl/5jMeAw						| The greatest motivational book of all time! Napoleon Hill's thirteen step programme will set you on the path to wealth and success.			|
 | **The Rational Optimist**     		| https://goo.gl/qJt42M					| In ‘The Rational Optimist’, acclaimed science writer Matt Ridley comprehensively refutes the doom-mongers of our time, and reaches back into the past to give a rational explanation for why we can – and will – overcome the challenges of the future, such as climate change and the population boom.		|
 | **The Intelligent Investor**     		| https://goo.gl/pajnZK					| The greatest investment advisor of the twentieth century, Benjamin Graham taught and inspired people worldwide.	|
