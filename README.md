@@ -1,4 +1,5 @@
-# List of most important book you have ever read
+# List of most important books you have ever read
+### Summary of the twitter thread by [🌪@APompliano](https://twitter.com/APompliano/status/1068203712634634243) 
 
 |Title       			|URL          								|Description  		|
 |:------------- 		|:-------------								|:-------------|
