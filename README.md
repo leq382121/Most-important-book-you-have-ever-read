@@ -6,3 +6,4 @@
 | Reminiscences of a Stock Operator       		| https://goo.gl/fDJjQB						| Offer insights into the art of trading and speculation			|
 | Think and grow rich       		| https://goo.gl/5jMeAw						| The greatest motivational book of all time! Napoleon Hill's thirteen step programme will set you on the path to wealth and success.			|
 | The Rational Optimist     		| https://goo.gl/qJt42M					| In ‘The Rational Optimist’, acclaimed science writer Matt Ridley comprehensively refutes the doom-mongers of our time, and reaches back into the past to give a rational explanation for why we can – and will – overcome the challenges of the future, such as climate change and the population boom.		|
+| The Intelligent Investor     		| https://goo.gl/pajnZK					| The greatest investment advisor of the twentieth century, Benjamin Graham taught and inspired people worldwide.	|
